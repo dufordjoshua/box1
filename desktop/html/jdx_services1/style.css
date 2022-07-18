@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  p {
+    fon-family: veranda;
+    font-size: 20px;
+  }
+  
+  div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+  .btn {
+    padding: 10px;
+    color: white;
+  }
+  .btn-1 {background-color: green; }
+  .btn-2 {background-color: blue; }
+  .btn-3 {background-color: purple; }
+  
